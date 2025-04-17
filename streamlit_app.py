@@ -62,4 +62,3 @@ ax2.scatter(input_df[0, 2], input_df[0, 3], c='black', s=200, alpha=0.5, label='
 ax2.legend()
 
 st.pyplot(fig2)
-)
